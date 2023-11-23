@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636637909 source:c:\users\hasse\documents\projettutoré\projet2\projet2\main.cpp
+	<iostream>
+	<complex>
+	<math.h>
+	<iomanip>
+	<vector>
+
